@@ -1,4 +1,4 @@
-<title>Welcome to the chat</title>
+<title>Welcome to the timeStamp PHP</title>
 <style>
     @import url(https://fonts.googleapis.com/css?family=Raleway:100);
     body{
